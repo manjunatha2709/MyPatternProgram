@@ -7,7 +7,7 @@ public class ReverseETriangle {
 	@Test
 	public void ReverseETriangleMethod()
 	{
-		int num=9;
+		int num=5;
 		for(int i=num;i>=1;i--)
 		{
 			for(int j=1*(num-i);j>=1;j--)

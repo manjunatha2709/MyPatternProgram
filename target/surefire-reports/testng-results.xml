@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-22T12:33:48 IST" name="Suite" finished-at="2023-12-22T12:33:48 IST" duration-ms="322">
+    <groups>
+    </groups>
+    <test started-at="2023-12-22T12:33:48 IST" name="Test" finished-at="2023-12-22T12:33:48 IST" duration-ms="322">
+      <class name="patternPackage.FinalOne">
+        <test-method signature="finalMethod()[pri:0, instance:patternPackage.FinalOne@3daa422a]" started-at="2023-12-22T12:33:48 IST" name="finalMethod" finished-at="2023-12-22T12:33:48 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finalMethod -->
+      </class> <!-- patternPackage.FinalOne -->
+      <class name="patternPackage.LTriangle">
+        <test-method signature="LTriangleMethod()[pri:0, instance:patternPackage.LTriangle@1817d444]" started-at="2023-12-22T12:33:48 IST" name="LTriangleMethod" finished-at="2023-12-22T12:33:48 IST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LTriangleMethod -->
+      </class> <!-- patternPackage.LTriangle -->
+      <class name="patternPackage.Rhombus">
+        <test-method signature="RhombusMethod()[pri:0, instance:patternPackage.Rhombus@4f209819]" started-at="2023-12-22T12:33:48 IST" name="RhombusMethod" finished-at="2023-12-22T12:33:48 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RhombusMethod -->
+      </class> <!-- patternPackage.Rhombus -->
+      <class name="patternPackage.ReverseLTriangle">
+        <test-method signature="ReverseLTriangleMethod()[pri:0, instance:patternPackage.ReverseLTriangle@2145b572]" started-at="2023-12-22T12:33:48 IST" name="ReverseLTriangleMethod" finished-at="2023-12-22T12:33:48 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReverseLTriangleMethod -->
+      </class> <!-- patternPackage.ReverseLTriangle -->
+      <class name="patternPackage.ReverseRTriangle">
+        <test-method signature="ReverseRTriangleMethod()[pri:0, instance:patternPackage.ReverseRTriangle@15eb5ee5]" started-at="2023-12-22T12:33:48 IST" name="ReverseRTriangleMethod" finished-at="2023-12-22T12:33:48 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReverseRTriangleMethod -->
+      </class> <!-- patternPackage.ReverseRTriangle -->
+      <class name="patternPackage.ETriangle">
+        <test-method signature="ETriangleMethod()[pri:0, instance:patternPackage.ETriangle@72f926e6]" started-at="2023-12-22T12:33:48 IST" name="ETriangleMethod" finished-at="2023-12-22T12:33:48 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ETriangleMethod -->
+      </class> <!-- patternPackage.ETriangle -->
+      <class name="patternPackage.RTriangle">
+        <test-method signature="RTriangleMethod()[pri:0, instance:patternPackage.RTriangle@3d74bf60]" started-at="2023-12-22T12:33:48 IST" name="RTriangleMethod" finished-at="2023-12-22T12:33:48 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RTriangleMethod -->
+      </class> <!-- patternPackage.RTriangle -->
+      <class name="patternPackage.ReverseETriangle">
+        <test-method signature="ReverseETriangleMethod()[pri:0, instance:patternPackage.ReverseETriangle@39529185]" started-at="2023-12-22T12:33:48 IST" name="ReverseETriangleMethod" finished-at="2023-12-22T12:33:48 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReverseETriangleMethod -->
+      </class> <!-- patternPackage.ReverseETriangle -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

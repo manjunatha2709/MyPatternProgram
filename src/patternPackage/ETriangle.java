@@ -7,7 +7,7 @@ public class ETriangle {
 	@Test
 	public void ETriangleMethod()
 	{
-		int num=9;
+		int num=5;
 		for(int i=1;i<=num;i++)
 		{
 			for(int j=1*(num-i);j>=1;j--)
